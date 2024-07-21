@@ -1,0 +1,14 @@
+.presentation{
+   /* display: flex;
+    flex-direction: column; */
+    text-align: left;
+    margin-left: 30%;
+}
+
+.presentation h1{
+    font-size: 40px;
+}
+
+.presentation p{
+    font-size: 18px;
+}

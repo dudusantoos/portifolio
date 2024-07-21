@@ -1,0 +1,17 @@
+.btnB{
+    background-color: transparent;
+    color: #74FAC0;
+    border: solid 1px #74FAC0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 0.9em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btnB:hover{
+    color: #000000;
+    background-color: #74FAC0;
+    transition-duration: 0.8s;
+    transform: translateY(-3px);
+}
